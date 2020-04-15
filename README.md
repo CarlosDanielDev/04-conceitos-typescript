@@ -14,6 +14,21 @@ Hoje vou inciar o módulo de Typescript!
 - [x] Quando adicionar tipos
 - [x] Tipando objetos e vetores
 
+> Aplicação muito simples com 2 rotas
+
+Rotas:
+
+- `localhost:3333/`
+- `localhost:3333/user`
+
+> Para incializar:
+
+```bash
+yarn && yarn build && yarn dev
+```
+
+Conceitos ->
+
 # Por que Typescript ?
 
 O que é Typescript ?
